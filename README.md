@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/muhammadhamza2a23/sites](https://app.netlify.com/teams/muhammadhamza2a23/sites)
 
+- All of my projects are available at [https://my-coding-portfolio.netlify.app/)
+
 - 💬 Ask me about **my favorite programming language and why I love it.**
 
 - 📫 How to reach me **muhammadhamza2a23@gmail.com**
