@@ -11,13 +11,15 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/muhammadhamza2a23/sites](https://app.netlify.com/teams/muhammadhamza2a23/sites)
 
-- All of my projects are available at [https://my-coding-portfolio.netlify.app/)
+
 
 - 💬 Ask me about **my favorite programming language and why I love it.**
 
 - 📫 How to reach me **muhammadhamza2a23@gmail.com**
 
 - ⚡ Fun fact **Why do frontend developers prefer dark mode? Because light attracts bugs.**
+
+-  My Portfolio https://my-coding-portfolio.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
