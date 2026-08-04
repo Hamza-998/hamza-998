@@ -1,35 +1,105 @@
-[![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)
+![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)
 
-<h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
-<h3 align="center">Transforming digital dreams into reality</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4372216/screenshots/8906085/media/c36005bbe856bd475a106ecaa3b0bf69.gif">
+# Hi 👋, I'm Muhammad Hamza
 
+### 🎨 Graphic Designer • 💻 Full Stack Web Developer • 🚀 Software Engineering Student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-998&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-998" /> </p>
-
-- 🌱 I’m currently learning **Angular**
-
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/muhammadhamza2a23/sites](https://app.netlify.com/teams/muhammadhamza2a23/sites)
-
-- 💬 Ask me about **my favorite programming language and why I love it.**
-
-- 📫 How to reach me **muhammadhamza2a23@gmail.com**
-
-- ⚡ Fun fact **Why do frontend developers prefer dark mode? Because light attracts bugs.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammadhamza340/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadhamza340/" height="30" width="40" /></a>
-<a href="https://instagram.com/hamzagraphics2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzagraphics2024" height="30" width="40" /></a>
-<a href="https://www.behance.net/muhammadhamza340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="muhammadhamza340" height="30" width="40" /></a>
+<p>
+Transforming ideas into beautiful designs and scalable web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Graphic+Designer+%7C+3%2B+Years+Experience;Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;ASP.NET+Core+Developer;Laravel+Developer;Always+Learning+New+Technologies;Welcome+To+My+GitHub+Profile!"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-998&show_icons=true&locale=en&layout=compact" alt="hamza-998" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-998&show_icons=true&locale=en" alt="hamza-998" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-998&" alt="hamza-998" /></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Graphic%20Designer-3%2B%20Years-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-MERN-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Freelance-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-Aptech-red?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="420" src="https://cdn.dribbble.com/users/4372216/screenshots/8906085/media/c36005bbe856bd475a106ecaa3b0bf69.gif">
+
+
+
+# 👨‍💻 About Me
+
+| | |
+|---|---|
+| 🎨 Experience | Graphic Designer (3+ Years) |
+| 💻 Role | Full Stack Web Developer |
+| 🎓 Education | Diploma in Software Engineering (Aptech Pakistan) |
+| 🌱 Learning | Flutter, Dart, Advanced ASP.NET Core, Laravel |
+| 🚀 Interests | MERN Stack, ASP.NET Core, UI/UX |
+| 🤝 Open To | Freelance • Internship • Full-Time |
+
+# 💻 Tech Stack
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,angular,vite" />
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,dotnet,cs" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+### 📱 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+### 🛠 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,photoshop,illustrator,firebase,npm" />
+
+---
+
+# 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamza-998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-998&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-998&layout=compact&theme=tokyonight&hide_border=true"/>
+
+---
+
+# 🔥 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+---
+
+# 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+---
+
+# 💡 Developer Philosophy
+
+> **"Great software is built when creativity meets clean code."**
+
+---
+
+# ⭐ Thanks for Visiting My Profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
