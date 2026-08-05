@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# Hi 👋, I'm Muhammad Hamza
+# Hi , I'm Muhammad Hamza
 
-### 🎨 Graphic Designer • 💻 Full Stack Web Developer • 🚀 Software Engineering Student
+### Graphic Designer • Full Stack Web Developer • Software Engineering Student
 
 <p>
 Transforming ideas into beautiful designs and scalable web applications.
@@ -30,24 +30,22 @@ Transforming ideas into beautiful designs and scalable web applications.
 
 ---
 
-<img align="right" alt="Coding" width="420" src="https://cdn.dribbble.com/users/4372216/screenshots/8906085/media/c36005bbe856bd475a106ecaa3b0bf69.gif">
 
+#  About Me
 
+🎓 I'm currently pursuing a **Diploma in Software Engineering** at **Aptech Pakistan**, where I've gained hands-on experience in both frontend and backend development through academic projects and practical learning.
 
-# 👨‍💻 About Me
+💻 My technical skills include **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Angular, Node.js, Express.js, PHP, Laravel, ASP.NET Core (C#), MongoDB, MySQL, and SQL Server**. I also work with **Git, GitHub, REST APIs, MVC Architecture, and Vercel Deployment**.
 
-| | |
-|---|---|
-| 🎨 Experience | Graphic Designer (3+ Years) |
-| 💻 Role | Full Stack Web Developer |
-| 🎓 Education | Diploma in Software Engineering (Aptech Pakistan) |
-| 🌱 Learning | Flutter, Dart, Advanced ASP.NET Core, Laravel |
-| 🚀 Interests | MERN Stack, ASP.NET Core, UI/UX |
-| 🤝 Open To | Freelance • Internship • Full-Time |
+🌱 At the moment, I'm expanding my knowledge by learning **Flutter, Dart, Advanced ASP.NET Core, Advanced Laravel, and PHP**, while continuously building full stack projects to improve my development skills.
 
-# 💻 Tech Stack
+🎨 Before moving into software development, I built my career as a **Graphic Designer**, which strengthened my creativity, attention to detail, branding knowledge, and user interface design skills. Today, I combine design thinking with programming to create responsive and user-friendly digital experiences.
 
-### 🎨 Frontend Development
+🚀 I'm always open to **internships, freelance projects, collaborations, and full-time opportunities** where I can contribute, learn, and grow as a **Full Stack Web Developer**.
+
+# Tech Stack
+
+### 🎨  Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,angular,vite" />
 
@@ -70,36 +68,29 @@ Transforming ideas into beautiful designs and scalable web applications.
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamza-998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-998&theme=tokyonight&hide_border=true"/>
 
-<br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-998&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
 
-# 🔥 Contribution Snake
+#  Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
-# 💭 Random Dev Quote
+#  Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
----
 
-# 💡 Developer Philosophy
-
-> **"Great software is built when creativity meets clean code."**
 
 ---
 
-# ⭐ Thanks for Visiting My Profile!
+#  Thanks for Visiting My Profile!
 
 If you like my work, consider giving a ⭐ to my repositories.
